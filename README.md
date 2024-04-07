@@ -3,6 +3,10 @@
 
 CRUD com a ideia de uma loja de Veículos.
 
+## Stack utilizada
+
+**Back-end:** Java 17, Sprint Boot, JPA e Hibernate, Lombok, Flyway e MySql
+
 
 ## Endpoints
 
